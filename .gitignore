@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.agents
+skills-lock.json
+
+# runtime storage & dynamic uploads
+/vault-storage/
+/public/uploads/
+/public/test-*.pdf
